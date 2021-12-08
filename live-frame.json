@@ -1,0 +1,10 @@
+{
+    "version": "0.0.10",
+    "homepage": "https://github.com/ttynsmr/LiveFrame",
+    "url": "https://github.com/ttynsmr/LiveFrame/releases/download/v0.0.10/LiveFrame.zip",
+    "bin": "LiveFrame.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/ttynsmr/LiveFrame/releases/download/v$version/LiveFrame.zip"
+    }
+}
