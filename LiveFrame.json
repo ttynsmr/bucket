@@ -1,7 +1,7 @@
 {
-    "version": "0.0.14",
+    "version": "0.0.16",
     "homepage": "https://github.com/ttynsmr/LiveFrame",
-    "url": "https://github.com/ttynsmr/LiveFrame/releases/download/v0.0.14/LiveFrame.zip",
+    "url": "https://github.com/ttynsmr/LiveFrame/releases/download/v0.0.16/LiveFrame.zip",
     "bin": "LiveFrame.exe",
     "checkver": "github",
     "autoupdate": {
